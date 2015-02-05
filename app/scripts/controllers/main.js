@@ -29,7 +29,7 @@ angular.module('cursoApp')
     ];
   });
 */
-
+//** Amanece que no es poco ***//
 angular.module('cursoApp')
   .controller('MainCtrl', ['$scope', function(scope) { 
         this.awesomeThings = [
